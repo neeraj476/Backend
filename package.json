@@ -1,0 +1,22 @@
+{
+  "name": "pracitce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeraj476/Backend.git"
+  },
+  "author": "Neeraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neeraj476/Backend/issues"
+  },
+  "homepage": "https://github.com/neeraj476/Backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
